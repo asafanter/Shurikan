@@ -1,0 +1,14 @@
+
+*.stash
+
+*.o
+
+*.a
+
+*.dll
+
+*.exe
+
+*.Debug
+
+*.Release
